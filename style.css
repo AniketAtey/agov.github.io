@@ -546,23 +546,23 @@ body {
 }
 
 .MS {
-    background-color: indigo;
+    background-color: rgb(153, 108, 185);
 }
 
 .COS {
-    background-color: blue;
+    background-color: rgb(101, 101, 197);
 }
 
 .PTRS {
-    background-color: greenyellow;
+    background-color: rgb(165, 209, 98);
 }
 
 .OGL {
-    background-color: rgb(255, 255, 0);
+    background-color: rgb(219, 219, 99);
 }
 
 .KY {
-    background-color: red;
+    background-color: rgb(236, 141, 141);
 }
 
 .column {
@@ -607,7 +607,6 @@ body {
     /* background-color: red; */
 
 }
-
 
 
 /* FOOTER !!!!! */
@@ -736,18 +735,26 @@ body {
 
 .footer .social_media ul li a.facebook:hover {
     background: #3b5998;
+    border: 1px solid #3b5998;
+    box-shadow: 4px 4px 12px #3b5998;
 }
 
 .footer .social_media ul li a.twitter:hover {
     background: #1da1f2;
+    border: 1px solid #1da1f2;
+    box-shadow: 4px 4px 12px #1da1f2;
 }
 
 .footer .social_media ul li a.instagram:hover {
     background: #c32aa3;
+    border: 1px solid #c32aa3;
+    box-shadow: 4px 4px 12px #c32aa3;
 }
 
 .footer .social_media ul li a.whatsapp:hover {
     background: #25d366;
+    border: 1px solid #25d366;
+    box-shadow: 4px 4px 12px #25d366;
 }
 
 .footer .social_media {
